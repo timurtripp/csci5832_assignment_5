@@ -46,6 +46,8 @@ def generate_inputs(datapoints: List[Dict]) -> (List[str], LongTensor):
 
     :return:
     """
+    # This should not be needed
+    raise NotImplementedError
 
 
 
