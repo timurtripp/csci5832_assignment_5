@@ -26,7 +26,7 @@
 
 ## Tasks
 
-  - Task A: NLI with BERT
+  - Task A: NLI with BERT: Complete the TODO cells in [NLI.ipynb](NLI.ipynb)
   - Task B: Prompt Engineering with GPT3 Playground/API
      
 ## Submission
