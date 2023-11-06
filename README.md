@@ -1,4 +1,4 @@
-# Assignment 5: Natural Language Inference with BERT & Prompt Engineering (Extra Credit)
+# Assignment 5: Prompt Engineering with GPT (Extra Credit)
 
 ## Prerequisites
 
@@ -6,17 +6,17 @@
 
  - Create a new conda environment (in the Terminal):
 
-    `conda create --name py39 python=3.9`
+    `conda create --name a5 python=3.9`
     
  - Activate the environment:
 
-     `conda activate py39`
+     `conda activate a5`
 
 ## Getting Started
 
   - Clone the repo, Enter the assignment directory
      
-      ` git clone https://github.com/csci5832-f22/assignment_5.git `
+      ` git clone https://github.com/csci5832-f23/assignment_5.git `
       
       ` cd assignment_5 `
         
@@ -26,11 +26,10 @@
 
 ## Tasks
 
-  - Task A: NLI with BERT: Complete the TODO cells in [NLI.ipynb](NLI.ipynb)
-  - Task B: Prompt Engineering with GPT3 Playground/API: Checkout [GPT3-Probing.ipynb](GPT3-Probing.ipynb)
+  - Prompt Engineering with GPT/ChatGPT Playground/API: Checkout [GPT3-Probing.ipynb](GPT3-Probing.ipynb)
      
 ## Submission
 
-   - Format: Single PDF of Task A.  Extra Credit: Written Report for Task B
+   - Format: Single PDF
    - Due Date: TBA. Extra Credit: TBA
 
