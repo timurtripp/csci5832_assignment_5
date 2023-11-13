@@ -1,4 +1,4 @@
-# Assignment 5: Prompt Engineering with GPT (Extra Credit)
+# Assignment 5: Prompt Engineering with GPT
 
 ## Prerequisites
 
